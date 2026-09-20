@@ -131,3 +131,8 @@ Bu dosya ileride aynı kaynak kullanılarak:
 **Typora → GitHub → MkDocs + Material → GitHub Pages**
 
 akışında kullanılacaktır.
+
+## 11. Deployment Test
+
+Bu satır Typora'da yazıldı, Git ile kaydedildi ve GitHub Pages'e gönderildi.
+
